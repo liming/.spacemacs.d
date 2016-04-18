@@ -32,6 +32,7 @@ values."
      markdown
      mli-emacs
      react
+     gtags
      ;; markdown
      org
      (shell :variables shell-default-shell 'eshell)
