@@ -15,6 +15,7 @@
 (setq mli-emacs-packages
     '(
       ;; package names go here
+      protobuf-mode
       ))
 
 ;; List of packages to exclude.
